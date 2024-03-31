@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="add_new_restaurant">Add New Restaurant</string>
+    <string name="filter">Filter</string>
+    <string name="search_here">Search Here</string>
+    <string name="rating">rating</string>
+    <string name="save">Save</string>
+    <string name="ratings">Ratings</string>
+    <string name="description">Description</string>
+    <string name="phone">Phone</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="location">Location</string>
+</resources>
